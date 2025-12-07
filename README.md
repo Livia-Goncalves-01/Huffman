@@ -1,7 +1,3 @@
-<p align="center"> 
-  <img src="imgs/logo_azul.png" alt="CEFET-MG" width="100px" height="100px">
-</p>
-
 <h1 align="center">
 Implementação do Código de Huffman para Compressão de Texto
 </h1>
