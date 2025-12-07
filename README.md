@@ -14,7 +14,7 @@ Implementação do Código de Huffman para Compressão de Texto
 
 ---
 
-## 📘 Visão Geral do Projeto
+## Visão Geral do Projeto
 
 <div align="justify">
 <p>
