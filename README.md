@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="justify">
 Implementação do Código de Huffman para Compressão de Texto
 </h1>
 
